@@ -1,0 +1,19 @@
+{
+  "name": "workshop_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomicfoundation/hardhat-verify": "^1.0.1",
+    "dotenv": "^16.1.4",
+    "hardhat": "^2.14.1",
+    "openzeppelin-solidity": "^3.4.2",
+    "web3": "^0.20.7"
+  }
+}
